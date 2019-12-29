@@ -12,6 +12,9 @@
         <module>aop</module>
         <module>proxy_customer</module>
         <module>luban-spring</module>
+        <module>import</module>
+        <module>spring-log</module>
+        <module>spring5</module>
     </modules>
     <packaging>pom</packaging>
 
